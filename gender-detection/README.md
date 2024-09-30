@@ -29,7 +29,7 @@ In this exercise, we use data from Twitter and Instagram users to predict their 
 - **Model Training**: Train an `XGBClassifier` on the combined features.
 - **Model Evaluation**: Evaluate the model using metrics like F1-score.
 
-<img src="/home/hamed/ml/gender-detection/score.png"  style= "width:50%; height:50%" >
+<img src="./score.png"  style= "width:50%; height:50%" >
 
 ## Conclusion
 
